@@ -29,4 +29,13 @@ void input()
 }
 
 void linearsearch()
+{
+	char ch;
+	int comparison; //number of comparisons
+
+	do
+	{
+		//
+	}
+}
 
