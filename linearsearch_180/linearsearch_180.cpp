@@ -50,6 +50,11 @@ void linearsearch()
 				break;
 			}
 		}
+		if (i == n)											// langkah 5 b not found
+			cout << "\n" << item << "not found in the array\n";
+		cout << "\nnumber of comparisons: " << comparison << endl;
+
+
 	}
 }
 
